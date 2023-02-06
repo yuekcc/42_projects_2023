@@ -15,7 +15,7 @@
 | 7   | [bash_prompt](https://github.com/yuekcc/bash_prompt)                                                     | BASH 提示符                            | zig           |
 | 8   | [init-nodejs-project](https://github.com/yuekcc/init-nodejs-project)                                     | 快速初始化 npm 项目                    | rust          |
 | 9   | [modern-chinese-dict](https://github.com/yuekcc/modern-chinese-dict)                                     | 现代汉语词典                           | js + rust     |
-| 10  | [build_script_dsl](https://github.com/yuekcc/build_script_dsl)                                                     | Shell DSL，用于编写 app 的构建脚本     | python        |
+| 10  | [build_script_dsl](https://github.com/yuekcc/build_script_dsl)                                           | Shell DSL，用于编写 app 的构建脚本     | python        |
 | 11  | [fetchweb](https://github.com/yuekcc/fetchweb)                                                           | 爬虫 DSL                               | js + node.js  |
 | 12  | [reactlike](https://github.com/yuekcc/reactlike)                                                         | 山寨一个 react                         | js            |
 | 13  | [yongjin-calc](https://github.com/yuekcc/yongjin-calc)                                                   | 车险佣金计算器                         | aardio        |
