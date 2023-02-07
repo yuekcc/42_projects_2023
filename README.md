@@ -26,6 +26,9 @@
 | 18  | [docutil](https://github.com/docutil/docutil)                                                            | 基于 CSR 的网站 app                    | rust          |
 | 19  | [docutil-search-server](https://github.com/docutil/docutil-search-server)                                | docutil 全文搜索支持服务               | js + node.js  |
 | 20  | [docutil-deploy-hook](https://github.com/docutil/docutil-deploy-hook)                                    | docutil 部署 hook，支持 github webhook | js + node.js  |
+| 21  | [ServiceKit](https://github.com/yuekcc/ServiceKit)                                                       | 迷你 web framework                     | js + node.js  |
+| 22  | [marknote](https://github.com/yuekcc/marknote)                                                           | 一个简单的 github pages                | js            |
+| 23  | [deprint](https://github.com/yuekcc/deprint)                                                             | 中心化打印系统                         | go            |
 
 ## LICENSE
 
