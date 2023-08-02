@@ -30,7 +30,7 @@
 | 22  | [marknote](https://github.com/yuekcc/marknote)                                                           | 一个简单的 github pages                | js            |
 | 23  | [deprint](https://github.com/yuekcc/deprint)                                                             | 中心化打印系统                         | go            |
 | 24  | [myadc](https://github.com/yuekcc/myadc)                                                                 | 一个简单的 「FaaS」                    | js            |
-| 24  | [van_jsx](https://github.com/yuekcc/van_jsx)                                                             | JSX for vanjs                          | js            |
+| 25  | [van_jsx](https://github.com/yuekcc/van_jsx)                                                             | JSX for vanjs                          | js            |
 
 ## LICENSE
 
